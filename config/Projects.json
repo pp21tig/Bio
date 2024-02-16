@@ -3,12 +3,18 @@
     "status": "Doing",
     "dateRange": "2023.12 - ?",
     "imageSrc": "images/examplepro.png",
-    "text": "Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project."
+    "text": "Nolinear transport has been a powerful tool to investigate band topology and symmetry breaking in condensed matter physics. Normal nonlinear optics, like SHG, THz emission, photogavalic effect, etc are "
   },
   {
     "status": "Doing",
     "dateRange": "2023.12 - ?",
     "imageSrc": "images/examplepro.png",
-    "text": "Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project. Some ongoing projects. Introduction to the project."
+    "text": "Magnetism is the strongest quantum phenomenon in the world. Magnetic dynamics of magnetic material has drawn a lot of attention due to their potential application in next generation high speed, low cost device as building block of 'beyond Moore'. It's crutial to make sense of the dynamics of such magnetic material. Conventional MOKE and MOKE imaging technique enable us to explore DC "
+  },
+  {
+    "status": "Doing",
+    "dateRange": "2023.12 - ?",
+    "imageSrc": "images/examplepro.png",
+    "text": "Magnetic state has given us a natural bit. The finding of GMR has brought the area of spintronics."
   }
 ]
